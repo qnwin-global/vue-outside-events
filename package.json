@@ -1,6 +1,6 @@
 {
   "name": "vue3-outside-events",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "description": "Vue 3.x directive to help a specified element listen for specific events occurring outside of itself.",
   "main": "dist/vue-outside-events.min.js",
   "scripts": {
